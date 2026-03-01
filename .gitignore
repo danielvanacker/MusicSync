@@ -25,6 +25,9 @@ Package.resolved
 # CocoaPods
 Pods/
 
+# Secrets (copy from Secrets.xcconfig.example and fill in your values)
+MusicSync/Secrets.xcconfig
+
 # OS
 .DS_Store
 *.swp
